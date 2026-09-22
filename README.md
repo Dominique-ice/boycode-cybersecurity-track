@@ -8,5 +8,5 @@ My walkthroughs and assignments for BoyCode Africa's Cybersecurity Track (Cohort
 Environment: XAMPP on Windows 8.1 (HP Compaq laptop)
 
 - [Command Injection](module-1-web-app-security/command-injection/command-injection.md)
-
+- [CSRF](module-1-web-app-security/csrf/README.md)
 More modules coming as the track progresses
