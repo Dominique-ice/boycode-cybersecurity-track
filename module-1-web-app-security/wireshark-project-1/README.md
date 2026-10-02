@@ -122,7 +122,7 @@ Capture of 552 packets containing a mix of DNS, TCP, QUIC and other traffic.
 
 
 
-![Exercise 7](screenshots/ex7-tcp-filter.png)
+![Exercise 7](screenshots/ex7-tcp-flter.png)
 
 
 
